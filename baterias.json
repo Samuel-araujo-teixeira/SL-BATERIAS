@@ -1,0 +1,93 @@
+[
+  {
+    "tipo": "carro",
+    "marcaVeiculo": "fiat",
+    "modeloVeiculo": "palio",
+    "anoMin": 2000,
+    "anoMax": 2018,
+    "bateria": "Moura M48FD (60Ah)",
+    "descricao": "Ideal para Palio, Uno, Siena. Alta durabilidade e tecnologia de ponta.",
+    "imagem": "imagens/baterias/moura-m48fd.png",
+    "capacidade_ah": 60,
+    "tensao_v": 12,
+    "marca_bateria": "Moura"
+  },
+  {
+    "tipo": "carro",
+    "marcaVeiculo": "chevrolet",
+    "modeloVeiculo": "onix",
+    "anoMin": 2012,
+    "anoMax": 2024,
+    "bateria": "Heliar Original (60Ah)",
+    "descricao": "Bateria homologada e recomendada para Onix, Prisma, Tracker. Confiabilidade garantida.",
+    "imagem": "imagens/baterias/heliar-original.png",
+    "capacidade_ah": 60,
+    "tensao_v": 12,
+    "marca_bateria": "Heliar"
+  },
+  {
+    "tipo": "carro",
+    "marcaVeiculo": "volkswagen",
+    "modeloVeiculo": "gol",
+    "anoMin": 1990,
+    "anoMax": 2024,
+    "bateria": "Moura M50AD (50Ah)",
+    "descricao": "Serve para Gol, Voyage, Saveiro. Livre de manutenção e excelente desempenho.",
+    "imagem": "imagens/baterias/moura-m50ad.png",
+    "capacidade_ah": 50,
+    "tensao_v": 12,
+    "marca_bateria": "Moura"
+  },
+  {
+    "tipo": "moto",
+    "marcaVeiculo": "honda",
+    "modeloVeiculo": "cg150",
+    "anoMin": 2005,
+    "anoMax": 2020,
+    "bateria": "Heliar HTZ7L (6Ah)",
+    "descricao": "Bateria selada de alta performance para CG 150, Titan, Bros. Mais segurança e durabilidade.",
+    "imagem": "imagens/baterias/heliar-moto.png",
+    "capacidade_ah": 6,
+    "tensao_v": 12,
+    "marca_bateria": "Heliar"
+  },
+  {
+    "tipo": "caminhao",
+    "marcaVeiculo": "mercedes-benz",
+    "modeloVeiculo": "axor",
+    "anoMin": 2005,
+    "anoMax": 2024,
+    "bateria": "Moura Caminhão M220A (150Ah)",
+    "descricao": "Bateria robusta com alta resistência a vibrações e maior vida útil para caminhões pesados.",
+    "imagem": "imagens/baterias/moura-caminhao.png",
+    "capacidade_ah": 150,
+    "tensao_v": 12,
+    "marca_bateria": "Moura"
+  },
+  {
+    "tipo": "carro",
+    "marcaVeiculo": "ford",
+    "modeloVeiculo": "ka",
+    "anoMin": 2000,
+    "anoMax": 2020,
+    "bateria": "América Super (48Ah)",
+    "descricao": "Excelente custo-benefício para Ford Ka, Fiesta. Qualidade e confiança.",
+    "imagem": "imagens/baterias/america-48ah.png",
+    "capacidade_ah": 48,
+    "tensao_v": 12,
+    "marca_bateria": "América"
+  },
+  {
+    "tipo": "carro",
+    "marcaVeiculo": "honda",
+    "modeloVeiculo": "civic",
+    "anoMin": 2006,
+    "anoMax": 2021,
+    "bateria": "Heliar AGM (60Ah)",
+    "descricao": "Tecnologia AGM para carros com Start-Stop. Partida potente e maior ciclagem.",
+    "imagem": "imagens/baterias/heliar-agm.png",
+    "capacidade_ah": 60,
+    "tensao_v": 12,
+    "marca_bateria": "Heliar"
+  }
+]
