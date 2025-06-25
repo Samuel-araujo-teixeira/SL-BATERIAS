@@ -1,6 +1,19 @@
 [
   {
     "tipo": "carro",
+    "marcaVeiculo": "NISSAN",
+    "modeloVeiculo": "VERSA",
+    "anoMin": 2018,
+    "anoMax": 2025,
+    "bateria": "Moura M50ED"," Heliar H50ED ou H52ED"
+    "descricao": "",
+    "imagem": "imagens/baterias/moura-m48fd.png",
+    "capacidade_ah": 60,
+    "tensao_v": 12,
+    "marca_bateria": "Moura", "Heliar"
+  },
+  {
+    "tipo": "carro",
     "marcaVeiculo": "fiat",
     "modeloVeiculo": "palio",
     "anoMin": 2000,
