@@ -14,19 +14,6 @@
   },
   {
     "tipo": "carro",
-    "marcaVeiculo": "nissan",
-    "modeloVeiculo": "versa",
-    "anoMin": 2000,
-    "anoMax": 2018,
-    "bateria": "Moura M50ED ",
-    "descricao": "",
-    "imagem": "imagens/baterias/moura-m48fd.png",
-    "capacidade_ah": 60,
-    "tensao_v": 12,
-    "marca_bateria": "Moura"
-  },
-  {
-    "tipo": "carro",
     "marcaVeiculo": "chevrolet",
     "modeloVeiculo": "onix",
     "anoMin": 2012,
